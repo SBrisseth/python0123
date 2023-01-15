@@ -1,5 +1,3 @@
-import math
-
 print("PREGUNTA Nº1")
 
 nombres = input("Ingrese nombres :")
